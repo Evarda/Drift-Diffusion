@@ -1,0 +1,5 @@
+_Data/
+Data/
+*.o
+*.mod
+driftDiffusion

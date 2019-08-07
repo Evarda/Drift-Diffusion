@@ -1,0 +1,8 @@
+SOURCES
+[1] nanoHUB.org - Numerical Solution of Poisson's Equation by Dragica Vasileska
+[2] Semiconductor Device Fundamentals - Robert F. Pierret
+[3] Computational Electronics - Dragica Vasileska
+[4] Drift Diffusion Modeling - nanoHUB.org Slides
+[5] Jacoboni, C., C. Canali, G. Ottaviani, and A. A. Quaranta, Solid State Electron. 20, 2(1977) 77-89.
+    http://www.ioffe.ru/SVA/NSM/Semicond/Si/electric.html
+[0] Relevant Files in "Project - Drift-Diffusion" Folder in Google Drive
