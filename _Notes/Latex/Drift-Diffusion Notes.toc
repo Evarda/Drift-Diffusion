@@ -1,0 +1,30 @@
+\contentsline {section}{\numberline {1}Given Constants}{3}
+\contentsline {section}{\numberline {2}Calculations}{3}
+\contentsline {subsection}{\numberline {2.1}Built in Potential \cite [p. 222]{Pierret1996}}{3}
+\contentsline {subsection}{\numberline {2.2}Length of Device}{3}
+\contentsline {subsection}{\numberline {2.3}Mesh \cite [p. 36]{Vasileska2006}}{4}
+\contentsline {subsection}{\numberline {2.4}Doping Profile}{5}
+\contentsline {subsection}{\numberline {2.5}Electric Field}{5}
+\contentsline {subsection}{\numberline {2.6}Carrier Density}{5}
+\contentsline {subsection}{\numberline {2.7}Conduction Band Energy}{6}
+\contentsline {section}{\numberline {3}Ohmic Contacts \cite [p. 3-23]{Software1998}}{6}
+\contentsline {section}{\numberline {4}Gummel Method \cite [p. 40]{Vasileska2006}}{6}
+\contentsline {section}{\numberline {5}Poisson Solver}{7}
+\contentsline {section}{\numberline {6}LU Decomposition}{9}
+\contentsline {subsection}{\numberline {6.1}Derivation}{9}
+\contentsline {subsection}{\numberline {6.2}Relation to Physics}{10}
+\contentsline {section}{\numberline {7}SRH Concentation Dependent Lifetime Model \cite [p. 3-60 ]{Software1998}}{11}
+\contentsline {subsection}{\numberline {7.1}Equation}{11}
+\contentsline {subsection}{\numberline {7.2}Units}{12}
+\contentsline {section}{\numberline {8}The Arora Model for Low Field Mobility \cite [p. 3-35]{Software1998}}{13}
+\contentsline {section}{\numberline {9}Field Dependent Mobility}{13}
+\contentsline {section}{\numberline {10}Diffusion From Mobility \cite {Pierret1996}}{14}
+\contentsline {section}{\numberline {11}Sharfetter-Gummel Discretization Scheme \cite [p.169]{Vasileska2006}}{14}
+\contentsline {subsection}{\numberline {11.1}Discretize Current}{14}
+\contentsline {subsection}{\numberline {11.2}Solved Discretized Current}{16}
+\contentsline {section}{\numberline {12}Sharfetter-Gummel \cite [p.158-159] {Selberherr1984}}{18}
+\contentsline {subsection}{\numberline {12.1}Electrons}{18}
+\contentsline {subsection}{\numberline {12.2}Holes}{19}
+\contentsline {section}{\numberline {13}Discretized Current Equations}{19}
+\contentsline {section}{\numberline {14}Bernoulli Function Implementation \cite [p.169] {Selberherr1984}}{20}
+\contentsline {section}{\numberline {15}Equilibrium Results}{21}

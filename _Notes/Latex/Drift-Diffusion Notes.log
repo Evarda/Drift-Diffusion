@@ -1,0 +1,449 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.8.14)  15 AUG 2017 13:02
+entering extended mode
+**"./Drift-Diffusion Notes.tex"
+("Drift-Diffusion Notes.tex"
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\parskip.sty"
+Package: parskip 2001/04/09 non-zero parskip adjustments
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty"
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+("Drift-Diffusion Notes.aux")
+\openout1 = `"Drift-Diffusion Notes.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count100
+\scratchdimen=\dimen114
+\scratchbox=\box28
+\nofMPsegments=\count101
+\nofMParguments=\count102
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count103
+\MPscratchDim=\dimen115
+\MPnumerator=\count104
+\makeMPintoPDFobject=\count105
+\everyMPtoPDFconversion=\toks21
+) [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+("Drift-Diffusion Notes.toc" [1])
+\tf@toc=\write3
+\openout3 = `"Drift-Diffusion Notes.toc"'.
+
+ [2] [3] [4] [5]
+Overfull \hbox (26.77509pt too wide) in paragraph at lines 157--158
+\OT1/cmr/m/n/12 where sur-face po-ten-tial, elec-tron con-cen-tra-tion, and hol
+e con-cen-tra-tions $(\OML/cmm/m/it/12  []; n[]; p[]\OT1/cmr/m/n/12 )$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--187
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--187
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--187
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--187
+
+ []
+
+[6] [7]
+Overfull \hbox (7.07504pt too wide) detected at line 254
+[] \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12  []\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 n[]e
+xp\OT1/cmr/m/n/12 (\OMS/cmsy/m/n/12  \OML/cmm/m/it/12  \OT1/cmr/m/n/12 ) \OMS/c
+msy/m/n/12   \OML/cmm/m/it/12 n[]exp\OT1/cmr/m/n/12 (\OML/cmm/m/it/12  \OT1/cmr
+/m/n/12 ) + \OML/cmm/m/it/12 N[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n
+/12 ) \OMS/cmsy/m/n/12   \OML/cmm/m/it/12 N[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 
+x\OT1/cmr/m/n/12 )] + \OML/cmm/m/it/12  \OT1/cmr/m/n/12 [\OML/cmm/m/it/12 n[]e
+xp\OT1/cmr/m/n/12 (\OMS/cmsy/m/n/12  \OML/cmm/m/it/12  \OT1/cmr/m/n/12 ) \OMS/c
+msy/m/n/12   \OML/cmm/m/it/12 n[]exp\OT1/cmr/m/n/12 (\OML/cmm/m/it/12  \OT1/cmr
+/m/n/12 )]
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--370
+
+ []
+
+[9]
+Overfull \hbox (25.71762pt too wide) in paragraph at lines 419--419
+[]\OT1/cmr/bx/n/17.28 SRH Con-cen-ta-tion De-pen-dent Life-time Model
+ []
+
+[10] [11] [12] [13]
+Overfull \hbox (4.0678pt too wide) in paragraph at lines 628--628
+[]\OT1/cmr/bx/n/17.28 Sharfetter-Gummel Dis-cretiza-tion Scheme
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 697--702
+
+ []
+
+[15] [16]
+Underfull \hbox (badness 10000) in paragraph at lines 763--767
+
+ []
+
+[17] [18] [19]
+Overfull \hbox (24.23969pt too wide) in paragraph at lines 984--984
+[]\OT1/cmr/bx/n/17.28 Bernoulli Func-tion Im-ple-men-ta-tion [3, p.169] 
+ []
+
+[20]
+Package epstopdf Info: Source file: <EqCarrierDensity.eps>
+(epstopdf)                    date: 2017-06-29 13:19:12
+(epstopdf)                    size: 210208 bytes
+(epstopdf)             Output file: <EqCarrierDensity-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-07-10 12:01:17
+(epstopdf)                    size: 21876 bytes
+(epstopdf)             Command: <epstopdf --outfile=EqCarrierDensity-eps-conver
+ted-to.pdf EqCarrierDensity.eps>
+(epstopdf)             \includegraphics on input line 1020.
+Package epstopdf Info: Output file is already uptodate.
+ <EqCarrierDensity-eps-converted-to.pdf, id=80, 469.755pt x 338.26375pt>
+File: EqCarrierDensity-eps-converted-to.pdf Graphic file (type pdf)
+
+<use EqCarrierDensity-eps-converted-to.pdf>
+Package pdftex.def Info: EqCarrierDensity-eps-converted-to.pdf used on input li
+ne 1020.
+(pdftex.def)             Requested size: 469.75386pt x 338.26291pt.
+
+Overfull \hbox (79.75386pt too wide) in paragraph at lines 1020--1021
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <EqConductionBandEdge.eps>
+(epstopdf)                    date: 2017-06-29 13:19:07
+(epstopdf)                    size: 98105 bytes
+(epstopdf)             Output file: <EqConductionBandEdge-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-07-10 12:01:20
+(epstopdf)                    size: 12454 bytes
+(epstopdf)             Command: <epstopdf --outfile=EqConductionBandEdge-eps-co
+nverted-to.pdf EqConductionBandEdge.eps>
+(epstopdf)             \includegraphics on input line 1025.
+Package epstopdf Info: Output file is already uptodate.
+<EqConductionBandEdge-eps-converted-to.pdf, id=81, 459.7175pt x 361.35pt>
+File: EqConductionBandEdge-eps-converted-to.pdf Graphic file (type pdf)
+
+<use EqConductionBandEdge-eps-converted-to.pdf>
+Package pdftex.def Info: EqConductionBandEdge-eps-converted-to.pdf used on inpu
+t line 1025.
+(pdftex.def)             Requested size: 459.71637pt x 361.34912pt.
+
+Overfull \hbox (69.71637pt too wide) in paragraph at lines 1025--1026
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <CarrierDensityByVoltage.eps>
+(epstopdf)                    date: 2017-08-07 10:44:14
+(epstopdf)                    size: 1063449 bytes
+(epstopdf)             Output file: <CarrierDensityByVoltage-eps-converted-to.p
+df>
+(epstopdf)                    date: 2017-08-07 10:44:25
+(epstopdf)                    size: 219480 bytes
+(epstopdf)             Command: <epstopdf --outfile=CarrierDensityByVoltage-eps
+-converted-to.pdf CarrierDensityByVoltage.eps>
+(epstopdf)             \includegraphics on input line 1031.
+Package epstopdf Info: Output file is already uptodate.
+
+<CarrierDensityByVoltage-eps-converted-to.pdf, id=82, 421.575pt x 314.17375pt>
+File: CarrierDensityByVoltage-eps-converted-to.pdf Graphic file (type pdf)
+
+<use CarrierDensityByVoltage-eps-converted-to.pdf>
+Package pdftex.def Info: CarrierDensityByVoltage-eps-converted-to.pdf used on i
+nput line 1031.
+(pdftex.def)             Requested size: 421.57396pt x 314.17297pt.
+
+Overfull \hbox (31.57396pt too wide) in paragraph at lines 1031--1032
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <ElectricFieldByVoltage.eps>
+(epstopdf)                    date: 2017-08-07 10:43:45
+(epstopdf)                    size: 497633 bytes
+(epstopdf)             Output file: <ElectricFieldByVoltage-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2017-08-07 10:44:27
+(epstopdf)                    size: 47178 bytes
+(epstopdf)             Command: <epstopdf --outfile=ElectricFieldByVoltage-eps-
+converted-to.pdf ElectricFieldByVoltage.eps>
+(epstopdf)             \includegraphics on input line 1037.
+Package epstopdf Info: Output file is already uptodate.
+<ElectricFieldByVoltage-eps-converted-to.pdf, id=83, 421.575pt x 316.18124pt>
+File: ElectricFieldByVoltage-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ElectricFieldByVoltage-eps-converted-to.pdf>
+Package pdftex.def Info: ElectricFieldByVoltage-eps-converted-to.pdf used on in
+put line 1037.
+(pdftex.def)             Requested size: 421.57396pt x 316.18047pt.
+
+Overfull \hbox (31.57396pt too wide) in paragraph at lines 1037--1038
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <CondBandEdgeByVoltage.eps>
+(epstopdf)                    date: 2017-08-14 16:25:44
+(epstopdf)                    size: 587035 bytes
+(epstopdf)             Output file: <CondBandEdgeByVoltage-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-08-14 16:34:44
+(epstopdf)                    size: 54310 bytes
+(epstopdf)             Command: <epstopdf --outfile=CondBandEdgeByVoltage-eps-c
+onverted-to.pdf CondBandEdgeByVoltage.eps>
+(epstopdf)             \includegraphics on input line 1043.
+Package epstopdf Info: Output file is already uptodate.
+<CondBandEdgeByVoltage-eps-converted-to.pdf, id=84, 421.575pt x 316.18124pt>
+File: CondBandEdgeByVoltage-eps-converted-to.pdf Graphic file (type pdf)
+
+<use CondBandEdgeByVoltage-eps-converted-to.pdf>
+Package pdftex.def Info: CondBandEdgeByVoltage-eps-converted-to.pdf used on inp
+ut line 1043.
+(pdftex.def)             Requested size: 421.57396pt x 316.18047pt.
+
+Overfull \hbox (31.57396pt too wide) in paragraph at lines 1043--1044
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <DiodeIV.eps>
+(epstopdf)                    date: 2017-08-10 16:27:56
+(epstopdf)                    size: 17524 bytes
+(epstopdf)             Output file: <DiodeIV-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-10 16:28:00
+(epstopdf)                    size: 5605 bytes
+(epstopdf)             Command: <epstopdf --outfile=DiodeIV-eps-converted-to.pd
+f DiodeIV.eps>
+(epstopdf)             \includegraphics on input line 1049.
+Package epstopdf Info: Output file is already uptodate.
+<DiodeIV-eps-converted-to.pdf, id=85, 421.575pt x 316.18124pt>
+File: DiodeIV-eps-converted-to.pdf Graphic file (type pdf)
+
+<use DiodeIV-eps-converted-to.pdf>
+Package pdftex.def Info: DiodeIV-eps-converted-to.pdf used on input line 1049.
+(pdftex.def)             Requested size: 421.57396pt x 316.18047pt.
+
+Overfull \hbox (31.57396pt too wide) in paragraph at lines 1049--1050
+ [][] 
+ []
+
+("Drift-Diffusion Notes.bbl") [21] [22 <./EqCarrierDensity-eps-converted-to.pdf
+>] [23 <./EqConductionBandEdge-eps-converted-to.pdf>] [24 <./CarrierDensityByVo
+ltage-eps-converted-to.pdf>] [25 <./ElectricFieldByVoltage-eps-converted-to.pdf
+>] [26 <./CondBandEdgeByVoltage-eps-converted-to.pdf>] [27 <./DiodeIV-eps-conve
+rted-to.pdf>] ("Drift-Diffusion Notes.aux") ) 
+Here is how much of TeX's memory you used:
+ 2268 strings out of 493323
+ 31214 string characters out of 3139057
+ 99058 words of memory out of 3000000
+ 5765 multiletter control sequences out of 15000+200000
+ 10901 words of font info for 39 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,15n,23p,452b,214s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mti12.pfb>
+Output written on "Drift-Diffusion Notes.pdf" (28 pages, 568278 bytes).
+PDF statistics:
+ 186 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+
